@@ -1,7 +1,7 @@
 ---
 # chain vid.yml but set custom variables: computername, git user/email; and update sudo
 
-- include: vid.yml computername=Vids-MacBook-Pro git_user_name="vid" git_user_email="vid@paloalto.com"
+- include: vid.yml computername=Vids-MacBook-Pro2 git_user_name="vid" git_user_email="vid@paloalto.com"
 
 # Add additional tasks for vid-pas
 - hosts: localhost
