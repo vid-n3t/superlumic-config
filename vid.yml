@@ -55,6 +55,7 @@
         - telegram
         # code
         - atom
+        - visual-studio-code
         # communication
         #- skype
         - slack
