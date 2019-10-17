@@ -63,6 +63,7 @@
         - diffmerge
         # sqlite
         - db-browser-for-sqlite
+        - sequel-pro
         # rowanj-gitx swapped for gitx - 2016-1-03 which was not compatible w/ osX 10.12.
         - rowanj-gitx
         - sourcetree
